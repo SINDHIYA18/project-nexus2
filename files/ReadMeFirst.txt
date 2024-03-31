@@ -31,11 +31,4 @@ ADMIN PANEL - Features:
 -->View/edit/remove existing categories
 -->Add new menus
 -->View/edit/remove existing menus
--->View/edit all user orders
 
-
-IMPORTANT NOTE: Use only for Educational Purposes!
-
-******************************************************************************************************
-
-Check our channel for more Projects!
